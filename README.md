@@ -1,8 +1,8 @@
 # VAFPQR — Secure QR Code Authentication System
 
 **ICT302 IT Professional Practice Project — Murdoch University**
-**Client:** Peter Cole & Mike Groeneweg 
-**Team:** VAFPQR (6 members)
+**Client:** Peter Cole & Mike Groeneweg <br>
+**Team:** VAFPQR (6 members) <br>
 **Timeline:** 20 May – 1 Aug 2026
 
 > This repository is a **project showcase** curated by Patricia Orenza, who served as **Project Manager & Business Analyst** on this project. It documents the problem, solution, my role, and the outcome, with the original project documentation included for reference.
@@ -11,7 +11,7 @@
 
 ## The Problem
 
-Conventional QR codes have no built-in way to verify authenticity. A malicious actor can print a fake QR code over a legitimate one, and users have no way of knowing before they scan — leading to phishing, fraud, or malware. As QR code adoption keeps growing across payments, menus, and event check-ins, so does the exposure to this risk.
+Conventional QR codes have no built-in way to verify authenticity. A malicious person can print a fake QR code over a legitimate one, and users have no way of knowing before they scan, leading to phishing, fraud, or malware. As QR code adoption keeps growing across payments, menus, and event check-ins, so does the exposure to this risk.
 
 ## The Solution
 
