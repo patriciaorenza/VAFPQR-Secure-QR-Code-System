@@ -55,7 +55,7 @@ Working across a 6-person team using a hybrid Waterfall/Agile methodology (2-wee
 - [VAFPQR Mobile App demo](https://youtube.com/shorts/1f7thcVPkBM)
 - [VAFPQR Web Dashboard demo](https://youtu.be/IjBSytjRXoY?si=MH3RP4mX4BuJCiSW)
 
-**Slide deck:** [VAFPQR_Slide_Deck.pptx](./media/VAFPQR_Slide_Deck.pptx)
+**Slide deck:** [VAFPQR_Slide_Deck.pptx](VAFPQR_Slide_Deck.pptx)
 
 ---
 
