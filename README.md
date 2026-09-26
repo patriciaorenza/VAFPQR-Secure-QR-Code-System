@@ -39,7 +39,7 @@ Working across a 6-person team using a hybrid Waterfall/Agile methodology (2-wee
 ## Outcome
 
 - All core functional requirements delivered: secure QR generation, JWT-based validation, expiry & blacklist checks, mobile scanning, tampering reports, and an admin dashboard with usage metrics.
-- **26 of 27 documented test cases passed** in formal testing (the one failure — an admin-generated QR code with an invalid URL not being rejected as expected — was logged for follow-up).
+- **26 of 27 documented test cases passed** in formal testing (the one failure, an admin-generated QR code with an invalid URL not being rejected as expected, was logged for follow-up).
 - Delivered on schedule for the 1 Aug 2026 final submission, with full documentation (Project Management Plan, Requirements & Analysis, Design Document, Test Plan & Cases) and user/admin manuals handed over to the client.
 
 ## Repository Contents
@@ -51,12 +51,11 @@ Working across a 6-person team using a hybrid Waterfall/Agile methodology (2-wee
 | [`/media`](./media) | Project slide deck and demo videos |
 
 **Demo videos:**
-- [Promo video](https://youtube.com/shorts/wxd6q5p9uVA)
-- [Installation demo](./media/VAFPQR_Installation_Demo.mp4)
+- [Marketing video](https://youtube.com/shorts/wxd6q5p9uVA)
+- [VAFPQR Mobile App demo](https://youtube.com/shorts/1f7thcVPkBM)
+- [VAFPQR Web Dashboard demo](https://youtu.be/IjBSytjRXoY?si=MH3RP4mX4BuJCiSW)
 
 **Slide deck:** [VAFPQR_Slide_Deck.pptx](./media/VAFPQR_Slide_Deck.pptx)
-
-> Note: the admin dashboard manual has had its demo login credentials redacted from this public copy for security reasons.
 
 ---
 
