@@ -1,10 +1,12 @@
 # VAFPQR — Secure QR Code Authentication System
 
 **ICT302 IT Professional Practice Project — Murdoch University**
-**Client:** Peter Cole & Mike Groeneweg | **Team:** VAFPQR (6 members) | **Timeline:** 20 May – 1 Aug 2026
+**Client:** Peter Cole & Mike Groeneweg 
+**Team:** VAFPQR (6 members)
+**Timeline:** 20 May – 1 Aug 2026
 
-> This repository is a **project showcase** curated by Patricia Orenza, who served as **Project Manager & Business Analyst** on this project. It documents the problem, solution, my role, and the outcome, with the original project documentation included for reference. It is not the live development repository (that belongs to the full team).
-
+> This repository is a **project showcase** curated by Patricia Orenza, who served as **Project Manager & Business Analyst** on this project. It documents the problem, solution, my role, and the outcome, with the original project documentation included for reference.
+> 
 ---
 
 ## The Problem
