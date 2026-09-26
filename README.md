@@ -51,7 +51,7 @@ Working across a 6-person team using a hybrid Waterfall/Agile methodology (2-wee
 | [`/media`](./media) | Project slide deck and demo videos |
 
 **Demo videos:**
-- [Promo video](./media/Promo_Video.mp4)
+- [Promo video](https://youtube.com/shorts/wxd6q5p9uVA)
 - [Installation demo](./media/VAFPQR_Installation_Demo.mp4)
 
 **Slide deck:** [VAFPQR_Slide_Deck.pptx](./media/VAFPQR_Slide_Deck.pptx)
