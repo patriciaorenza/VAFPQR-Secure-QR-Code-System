@@ -48,7 +48,6 @@ Working across a 6-person team using a hybrid Waterfall/Agile methodology (2-wee
 |---|---|
 | [`/docs`](./docs) | Project Management Plan, Requirements & Analysis, Design Document, Test Plan, Test Cases |
 | [`/manuals`](./manuals) | Admin dashboard and mobile app user/installation manuals |
-| [`/media`](./media) | Project slide deck and demo videos |
 
 **Demo videos:**
 - [Marketing video](https://youtube.com/shorts/wxd6q5p9uVA)
